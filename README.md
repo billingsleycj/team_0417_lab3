@@ -10,3 +10,5 @@ Elizabeth Shan
 Better to rely on one powerful king than on many little princes.
 
 Our project is going to be a mix of a schedule planner, campus map, and event recommendation hub
+
+.
