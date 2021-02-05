@@ -1,3 +1,5 @@
+Project Team Members:
+
 # team_0417_lab3
 Project Team Members:
 Blake Larson
@@ -11,5 +13,5 @@ Elizabeth Shan
 
 Better to rely on one powerful king than on many little princes.
 
-
+Liz looked at this
 reviewed by Liz
