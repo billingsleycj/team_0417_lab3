@@ -1,3 +1,4 @@
+
 Project Team Members:
 
 # team_0417_lab3
@@ -11,7 +12,11 @@ this is my edit in the branch -cam
 
 Elizabeth Shan
 
+
+Better to rely on one powerful king than on many little princes.
+
 Better to rely on one powerful king than on many little princes.
 
 Liz looked at this
 reviewed by Liz
+
